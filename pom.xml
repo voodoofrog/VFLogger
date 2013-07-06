@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uk.co.forgottendream.VFLogger</groupId>
 	<artifactId>VFLogger</artifactId>
-	<version>1.0</version>
+	<version>1.0.0-RELEASE</version>
 	<name>VFLogger</name>
 	<repositories>
 		<repository>
